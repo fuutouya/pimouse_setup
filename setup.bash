@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Writting by Hiroaki
 
 exec 2> /tmp/setup.log 
 
